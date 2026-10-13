@@ -40,7 +40,7 @@ when the tunnel has no IPv6 route.
 
 <!-- BEGIN GENERATED CATALOG -->
 
-Last successful update: `2026-10-13T09:46:25+00:00`. The table contains all 90 published files.
+Last successful update: `2026-10-13T09:50:59+00:00`. The table contains all 90 published files.
 
 | Provider / service | Subscription URL | Domains | IPv4 CIDRs | IPv6 CIDRs |
 | --- | --- | ---: | ---: | ---: |
