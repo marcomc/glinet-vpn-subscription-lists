@@ -40,7 +40,7 @@ when the tunnel has no IPv6 route.
 
 <!-- BEGIN GENERATED CATALOG -->
 
-Last successful update: `2026-10-13T14:56:46+00:00`. The table contains all 63 published files.
+Last successful update: `2026-10-13T15:07:03+00:00`. The table contains all 63 published files.
 
 | Provider / service | Subscription URL | Domains | IPv4 CIDRs | IPv6 CIDRs |
 | --- | --- | ---: | ---: | ---: |
@@ -76,10 +76,10 @@ Last successful update: `2026-10-13T14:56:46+00:00`. The table contains all 63 p
 | meta / all | [meta-all-ips-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/meta/meta-all-ips-v4.txt) | 0 | 79 | 0 |
 | meta / all | [meta-all-ips-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/meta/meta-all-ips-v6.txt) | 0 | 0 | 40 |
 | meta / all | [meta-all-ips.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/meta/meta-all-ips.txt) | 0 | 79 | 40 |
-| microsoft / all | [microsoft-all-combined-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-combined-v4.txt) | 864 | 31 | 0 |
-| microsoft / all | [microsoft-all-combined-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-combined-v6.txt) | 864 | 0 | 51 |
-| microsoft / all | [microsoft-all-combined.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-combined.txt) | 864 | 31 | 51 |
-| microsoft / all | [microsoft-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-domains.txt) | 864 | 0 | 0 |
+| microsoft / all | [microsoft-all-combined-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-combined-v4.txt) | 999 | 31 | 0 |
+| microsoft / all | [microsoft-all-combined-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-combined-v6.txt) | 999 | 0 | 51 |
+| microsoft / all | [microsoft-all-combined.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-combined.txt) | 999 | 31 | 51 |
+| microsoft / all | [microsoft-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-domains.txt) | 999 | 0 | 0 |
 | microsoft / all | [microsoft-all-ips-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-ips-v4.txt) | 0 | 31 | 0 |
 | microsoft / all | [microsoft-all-ips-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-ips-v6.txt) | 0 | 0 | 51 |
 | microsoft / all | [microsoft-all-ips.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-ips.txt) | 0 | 31 | 51 |
@@ -90,7 +90,7 @@ Last successful update: `2026-10-13T14:56:46+00:00`. The table contains all 63 p
 | netflix / all | [netflix-all-ips-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/netflix/netflix-all-ips-v4.txt) | 0 | 36 | 0 |
 | netflix / all | [netflix-all-ips-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/netflix/netflix-all-ips-v6.txt) | 0 | 0 | 86 |
 | netflix / all | [netflix-all-ips.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/netflix/netflix-all-ips.txt) | 0 | 36 | 86 |
-| openai / all | [openai-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/openai/openai-all-domains.txt) | 31 | 0 | 0 |
+| openai / all | [openai-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/openai/openai-all-domains.txt) | 40 | 0 | 0 |
 | spotify / all | [spotify-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/spotify/spotify-all-domains.txt) | 26 | 0 | 0 |
 | telegram / all | [telegram-all-combined-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/telegram/telegram-all-combined-v4.txt) | 24 | 7 | 0 |
 | telegram / all | [telegram-all-combined-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/telegram/telegram-all-combined-v6.txt) | 24 | 0 | 4 |
@@ -124,6 +124,8 @@ Combined lists now use `-combined.txt`, `-combined-v4.txt`, and `-combined-v6.tx
 - After import, check the detected rule count and route real IPv4 and IPv6 traffic through the intended VPN tunnel. A successful import alone does not prove routing.
 - Encrypted or external DNS, direct IP connections, and IPv6 paths outside the VPN policy can bypass domain-based policies.
 - Shared cloud allocations and DNS-derived IP addresses are excluded from provider IP lists. See [source attribution](DATA-LICENSES.md) and the coverage report for provenance and update timestamps.
+- OpenAI currently has a domain list only. Its published crawler and integration CIDRs describe OpenAI-originated connections, so they are unsuitable as ChatGPT client destinations. Microsoft 365's official endpoint feed supplements Microsoft domains and IPs but does not cover every Microsoft product.
+- Provider and community feeds can omit changing regional endpoints or third-party dependencies; use the coverage report to inspect each list's source scope.
 
 ## Updates and attribution
 
