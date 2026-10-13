@@ -40,7 +40,7 @@ when the tunnel has no IPv6 route.
 
 <!-- BEGIN GENERATED CATALOG -->
 
-Last successful update: `2026-10-13T15:07:03+00:00`. The table contains all 63 published files.
+Last successful update: `2026-10-13T15:40:38+00:00`. The table contains all 67 published files.
 
 | Provider / service | Subscription URL | Domains | IPv4 CIDRs | IPv6 CIDRs |
 | --- | --- | ---: | ---: | ---: |
@@ -90,7 +90,11 @@ Last successful update: `2026-10-13T15:07:03+00:00`. The table contains all 63 p
 | netflix / all | [netflix-all-ips-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/netflix/netflix-all-ips-v4.txt) | 0 | 36 | 0 |
 | netflix / all | [netflix-all-ips-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/netflix/netflix-all-ips-v6.txt) | 0 | 0 | 86 |
 | netflix / all | [netflix-all-ips.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/netflix/netflix-all-ips.txt) | 0 | 36 | 86 |
-| openai / all | [openai-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/openai/openai-all-domains.txt) | 40 | 0 | 0 |
+| openai / all | [openai-all-combined-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/openai/openai-all-combined-v4.txt) | 63 | 23 | 0 |
+| openai / all | [openai-all-combined.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/openai/openai-all-combined.txt) | 63 | 23 | 0 |
+| openai / all | [openai-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/openai/openai-all-domains.txt) | 63 | 0 | 0 |
+| openai / all | [openai-all-ips-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/openai/openai-all-ips-v4.txt) | 0 | 23 | 0 |
+| openai / all | [openai-all-ips.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/openai/openai-all-ips.txt) | 0 | 23 | 0 |
 | spotify / all | [spotify-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/spotify/spotify-all-domains.txt) | 26 | 0 | 0 |
 | telegram / all | [telegram-all-combined-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/telegram/telegram-all-combined-v4.txt) | 24 | 7 | 0 |
 | telegram / all | [telegram-all-combined-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/telegram/telegram-all-combined-v6.txt) | 24 | 0 | 4 |
@@ -124,7 +128,7 @@ Combined lists now use `-combined.txt`, `-combined-v4.txt`, and `-combined-v6.tx
 - After import, check the detected rule count and route real IPv4 and IPv6 traffic through the intended VPN tunnel. A successful import alone does not prove routing.
 - Encrypted or external DNS, direct IP connections, and IPv6 paths outside the VPN policy can bypass domain-based policies.
 - Shared cloud allocations and DNS-derived IP addresses are excluded from provider IP lists. See [source attribution](DATA-LICENSES.md) and the coverage report for provenance and update timestamps.
-- OpenAI currently has a domain list only. Its published crawler and integration CIDRs describe OpenAI-originated connections, so they are unsuitable as ChatGPT client destinations. Microsoft 365's official endpoint feed supplements Microsoft domains and IPs but does not cover every Microsoft product.
+- OpenAI IP variants include only official ChatGPT Voice server CIDRs for UDP port 3478; they do not cover ChatGPT web or API destinations. GL.iNet's IP subscription rules are address based and can also route other traffic to those servers. OpenAI crawler and integration CIDRs describe OpenAI-originated connections and are excluded. Microsoft's official 365 endpoint feed does not cover every Microsoft product.
 - Provider and community feeds can omit changing regional endpoints or third-party dependencies; use the coverage report to inspect each list's source scope.
 
 ## Updates and attribution
