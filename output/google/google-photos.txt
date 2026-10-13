@@ -1,2 +1,0 @@
-photos.google.com
-photos.googleapis.com
