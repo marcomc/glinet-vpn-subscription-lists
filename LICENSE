@@ -1,0 +1,29 @@
+License and attribution notice
+
+Copyright (c) 2026 Marco Massari
+
+The original README text and report schema in this repository are available
+under the MIT License below. This grant does not relicense the generated
+subscription data or third-party source material in output/ and reports/.
+Their sources and applicable terms are described in DATA-LICENSES.md and in
+reports/coverage.json. Users must follow the applicable upstream terms.
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the original material covered by this license, to deal in that material
+without restriction, including without limitation the rights to use, copy,
+modify, merge, publish, distribute, sublicense, and/or sell copies of the
+material, and to permit persons to whom the material is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the covered material.
+
+THE COVERED MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO
+EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES
+OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE COVERED MATERIAL OR THE USE OR
+OTHER DEALINGS IN THE COVERED MATERIAL.

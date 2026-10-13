@@ -1,0 +1,4 @@
+cloud.google
+cloud.google.com
+console.cloud.google.com
+gcr.io
