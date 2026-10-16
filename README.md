@@ -48,7 +48,7 @@ Use a `-combined-v4.txt` list when the tunnel has no IPv6 route.
 
 <!-- BEGIN GENERATED CATALOG -->
 
-Last successful update: `2026-10-15T08:25:47+00:00`. The table contains all 67 published files.
+Last successful update: `2026-10-16T08:19:10+00:00`. The table contains all 67 published files.
 
 | Provider / service | Subscription URL | Domains | IPv4 CIDRs | IPv6 CIDRs |
 | --- | --- | ---: | ---: | ---: |
@@ -77,13 +77,13 @@ Last successful update: `2026-10-15T08:25:47+00:00`. The table contains all 67 p
 | google / photos | [google-photos-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-photos-domains.txt) | 2 | 0 | 0 |
 | google / play | [google-play-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-play-domains.txt) | 8 | 0 | 0 |
 | google / youtube | [google-youtube-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-youtube-domains.txt) | 178 | 0 | 0 |
-| meta / all | [meta-all-combined-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/meta/meta-all-combined-v4.txt) | 560 | 78 | 0 |
+| meta / all | [meta-all-combined-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/meta/meta-all-combined-v4.txt) | 560 | 79 | 0 |
 | meta / all | [meta-all-combined-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/meta/meta-all-combined-v6.txt) | 560 | 0 | 40 |
-| meta / all | [meta-all-combined.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/meta/meta-all-combined.txt) | 560 | 78 | 40 |
+| meta / all | [meta-all-combined.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/meta/meta-all-combined.txt) | 560 | 79 | 40 |
 | meta / all | [meta-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/meta/meta-all-domains.txt) | 560 | 0 | 0 |
-| meta / all | [meta-all-ips-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/meta/meta-all-ips-v4.txt) | 0 | 78 | 0 |
+| meta / all | [meta-all-ips-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/meta/meta-all-ips-v4.txt) | 0 | 79 | 0 |
 | meta / all | [meta-all-ips-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/meta/meta-all-ips-v6.txt) | 0 | 0 | 40 |
-| meta / all | [meta-all-ips.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/meta/meta-all-ips.txt) | 0 | 78 | 40 |
+| meta / all | [meta-all-ips.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/meta/meta-all-ips.txt) | 0 | 79 | 40 |
 | microsoft / all | [microsoft-all-combined-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-combined-v4.txt) | 999 | 31 | 0 |
 | microsoft / all | [microsoft-all-combined-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-combined-v6.txt) | 999 | 0 | 51 |
 | microsoft / all | [microsoft-all-combined.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-combined.txt) | 999 | 31 | 51 |
@@ -111,7 +111,7 @@ Last successful update: `2026-10-15T08:25:47+00:00`. The table contains all 67 p
 | telegram / all | [telegram-all-ips-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/telegram/telegram-all-ips-v4.txt) | 0 | 7 | 0 |
 | telegram / all | [telegram-all-ips-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/telegram/telegram-all-ips-v6.txt) | 0 | 0 | 4 |
 | telegram / all | [telegram-all-ips.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/telegram/telegram-all-ips.txt) | 0 | 7 | 4 |
-| tiktok / all | [tiktok-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/tiktok/tiktok-all-domains.txt) | 29 | 0 | 0 |
+| tiktok / all | [tiktok-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/tiktok/tiktok-all-domains.txt) | 32 | 0 | 0 |
 | x / all | [x-all-combined-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/x/x-all-combined-v4.txt) | 26 | 16 | 0 |
 | x / all | [x-all-combined-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/x/x-all-combined-v6.txt) | 26 | 0 | 3 |
 | x / all | [x-all-combined.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/x/x-all-combined.txt) | 26 | 16 | 3 |
