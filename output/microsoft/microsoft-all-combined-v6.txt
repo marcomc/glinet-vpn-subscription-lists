@@ -37,7 +37,6 @@ appserviceenvironment.cn
 appsforoffice.microsoft.com
 aria.microsoft.com
 aria.ms
-asobostudio.com
 asp.net
 aspnetcdn.com
 assets-yammer.com
@@ -309,8 +308,6 @@ f.c2r.ts.cdn.office.net
 fabric.io
 fasttrackreadysupport.com
 femalefounderscomp.com
-flightsimulator.azureedge.net
-flightsimulator.com
 flipwithsurface.com
 flow.microsoft.com
 fluidpreview.com
