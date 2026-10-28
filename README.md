@@ -48,7 +48,7 @@ Use a `-combined-v4.txt` list when the tunnel has no IPv6 route.
 
 <!-- BEGIN GENERATED CATALOG -->
 
-Last successful update: `2026-10-27T09:09:11+00:00`. The table contains all 67 published files.
+Last successful update: `2026-10-28T09:49:48+00:00`. The table contains all 67 published files.
 
 | Provider / service | Subscription URL | Domains | IPv4 CIDRs | IPv6 CIDRs |
 | --- | --- | ---: | ---: | ---: |
@@ -98,11 +98,11 @@ Last successful update: `2026-10-27T09:09:11+00:00`. The table contains all 67 p
 | netflix / all | [netflix-all-ips-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/netflix/netflix-all-ips-v4.txt) | 0 | 36 | 0 |
 | netflix / all | [netflix-all-ips-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/netflix/netflix-all-ips-v6.txt) | 0 | 0 | 86 |
 | netflix / all | [netflix-all-ips.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/netflix/netflix-all-ips.txt) | 0 | 36 | 86 |
-| openai / all | [openai-all-combined-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/openai/openai-all-combined-v4.txt) | 65 | 150 | 0 |
-| openai / all | [openai-all-combined.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/openai/openai-all-combined.txt) | 65 | 150 | 0 |
+| openai / all | [openai-all-combined-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/openai/openai-all-combined-v4.txt) | 65 | 400 | 0 |
+| openai / all | [openai-all-combined.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/openai/openai-all-combined.txt) | 65 | 400 | 0 |
 | openai / all | [openai-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/openai/openai-all-domains.txt) | 65 | 0 | 0 |
-| openai / all | [openai-all-ips-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/openai/openai-all-ips-v4.txt) | 0 | 150 | 0 |
-| openai / all | [openai-all-ips.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/openai/openai-all-ips.txt) | 0 | 150 | 0 |
+| openai / all | [openai-all-ips-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/openai/openai-all-ips-v4.txt) | 0 | 400 | 0 |
+| openai / all | [openai-all-ips.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/openai/openai-all-ips.txt) | 0 | 400 | 0 |
 | spotify / all | [spotify-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/spotify/spotify-all-domains.txt) | 26 | 0 | 0 |
 | telegram / all | [telegram-all-combined-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/telegram/telegram-all-combined-v4.txt) | 24 | 7 | 0 |
 | telegram / all | [telegram-all-combined-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/telegram/telegram-all-combined-v6.txt) | 24 | 0 | 4 |
