@@ -48,7 +48,7 @@ Use a `-combined-v4.txt` list when the tunnel has no IPv6 route.
 
 <!-- BEGIN GENERATED CATALOG -->
 
-Last successful update: `2026-10-30T10:12:24+00:00`. The table contains all 67 published files.
+Last successful update: `2026-10-31T09:48:06+00:00`. The table contains all 67 published files.
 
 | Provider / service | Subscription URL | Domains | IPv4 CIDRs | IPv6 CIDRs |
 | --- | --- | ---: | ---: | ---: |
@@ -57,13 +57,13 @@ Last successful update: `2026-10-30T10:12:24+00:00`. The table contains all 67 p
 | apple / all | [apple-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/apple/apple-all-domains.txt) | 1796 | 0 | 0 |
 | cloudflare / all | [cloudflare-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/cloudflare/cloudflare-all-domains.txt) | 76 | 0 | 0 |
 | google / ads | [google-ads-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-ads-domains.txt) | 7 | 0 | 0 |
-| google / all | [google-all-combined-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-combined-v4.txt) | 1136 | 297 | 0 |
+| google / all | [google-all-combined-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-combined-v4.txt) | 1136 | 298 | 0 |
 | google / all | [google-all-combined-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-combined-v6.txt) | 1136 | 0 | 98 |
-| google / all | [google-all-combined.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-combined.txt) | 1136 | 297 | 98 |
+| google / all | [google-all-combined.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-combined.txt) | 1136 | 298 | 98 |
 | google / all | [google-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-domains.txt) | 1136 | 0 | 0 |
-| google / all | [google-all-ips-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-ips-v4.txt) | 0 | 297 | 0 |
+| google / all | [google-all-ips-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-ips-v4.txt) | 0 | 298 | 0 |
 | google / all | [google-all-ips-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-ips-v6.txt) | 0 | 0 | 98 |
-| google / all | [google-all-ips.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-ips.txt) | 0 | 297 | 98 |
+| google / all | [google-all-ips.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-ips.txt) | 0 | 298 | 98 |
 | google / apis | [google-apis-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-apis-domains.txt) | 24 | 0 | 0 |
 | google / cloud | [google-cloud-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-cloud-domains.txt) | 4 | 0 | 0 |
 | google / core | [google-core-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-core-domains.txt) | 2 | 0 | 0 |
@@ -84,10 +84,10 @@ Last successful update: `2026-10-30T10:12:24+00:00`. The table contains all 67 p
 | meta / all | [meta-all-ips-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/meta/meta-all-ips-v4.txt) | 0 | 79 | 0 |
 | meta / all | [meta-all-ips-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/meta/meta-all-ips-v6.txt) | 0 | 0 | 40 |
 | meta / all | [meta-all-ips.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/meta/meta-all-ips.txt) | 0 | 79 | 40 |
-| microsoft / all | [microsoft-all-combined-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-combined-v4.txt) | 993 | 31 | 0 |
-| microsoft / all | [microsoft-all-combined-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-combined-v6.txt) | 993 | 0 | 51 |
-| microsoft / all | [microsoft-all-combined.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-combined.txt) | 993 | 31 | 51 |
-| microsoft / all | [microsoft-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-domains.txt) | 993 | 0 | 0 |
+| microsoft / all | [microsoft-all-combined-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-combined-v4.txt) | 995 | 31 | 0 |
+| microsoft / all | [microsoft-all-combined-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-combined-v6.txt) | 995 | 0 | 51 |
+| microsoft / all | [microsoft-all-combined.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-combined.txt) | 995 | 31 | 51 |
+| microsoft / all | [microsoft-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-domains.txt) | 995 | 0 | 0 |
 | microsoft / all | [microsoft-all-ips-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-ips-v4.txt) | 0 | 31 | 0 |
 | microsoft / all | [microsoft-all-ips-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-ips-v6.txt) | 0 | 0 | 51 |
 | microsoft / all | [microsoft-all-ips.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-ips.txt) | 0 | 31 | 51 |

@@ -180,6 +180,7 @@ bingpk.com
 bings.com
 bingsandbox.com
 bingsettingssearch.trafficmanager.net
+bingstatic.com
 bingtoolbar.com
 bingtranslator.com
 bingvisualsearch.com
@@ -624,6 +625,7 @@ msfteducation.ca
 msftidentity.com
 msftncsi.com
 msftnet.org
+msftstatic.com
 msgamesresearch.com
 msgamestudios.com
 mshome.net
