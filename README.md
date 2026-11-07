@@ -48,22 +48,22 @@ Use a `-combined-v4.txt` list when the tunnel has no IPv6 route.
 
 <!-- BEGIN GENERATED CATALOG -->
 
-Last successful update: `2026-11-06T11:06:43+00:00`. The table contains all 67 published files.
+Last successful update: `2026-11-07T10:25:48+00:00`. The table contains all 67 published files.
 
 | Provider / service | Subscription URL | Domains | IPv4 CIDRs | IPv6 CIDRs |
 | --- | --- | ---: | ---: | ---: |
 | amazon / all | [amazon-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/amazon/amazon-all-domains.txt) | 249 | 0 | 0 |
-| anthropic / all | [anthropic-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/anthropic/anthropic-all-domains.txt) | 19 | 0 | 0 |
-| apple / all | [apple-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/apple/apple-all-domains.txt) | 1796 | 0 | 0 |
+| anthropic / all | [anthropic-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/anthropic/anthropic-all-domains.txt) | 21 | 0 | 0 |
+| apple / all | [apple-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/apple/apple-all-domains.txt) | 1797 | 0 | 0 |
 | cloudflare / all | [cloudflare-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/cloudflare/cloudflare-all-domains.txt) | 76 | 0 | 0 |
 | google / ads | [google-ads-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-ads-domains.txt) | 7 | 0 | 0 |
-| google / all | [google-all-combined-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-combined-v4.txt) | 1136 | 298 | 0 |
+| google / all | [google-all-combined-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-combined-v4.txt) | 1136 | 297 | 0 |
 | google / all | [google-all-combined-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-combined-v6.txt) | 1136 | 0 | 98 |
-| google / all | [google-all-combined.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-combined.txt) | 1136 | 298 | 98 |
+| google / all | [google-all-combined.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-combined.txt) | 1136 | 297 | 98 |
 | google / all | [google-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-domains.txt) | 1136 | 0 | 0 |
-| google / all | [google-all-ips-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-ips-v4.txt) | 0 | 298 | 0 |
+| google / all | [google-all-ips-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-ips-v4.txt) | 0 | 297 | 0 |
 | google / all | [google-all-ips-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-ips-v6.txt) | 0 | 0 | 98 |
-| google / all | [google-all-ips.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-ips.txt) | 0 | 298 | 98 |
+| google / all | [google-all-ips.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-ips.txt) | 0 | 297 | 98 |
 | google / apis | [google-apis-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-apis-domains.txt) | 24 | 0 | 0 |
 | google / cloud | [google-cloud-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-cloud-domains.txt) | 4 | 0 | 0 |
 | google / core | [google-core-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-core-domains.txt) | 2 | 0 | 0 |
