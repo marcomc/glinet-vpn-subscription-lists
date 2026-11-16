@@ -200,6 +200,7 @@ brazilpartneruniversity.com
 breakdown.me
 browser.events.data.msn.cn
 browser.events.data.msn.com
+builds.dotnet.microsoft.com
 c-msedge.net
 c.bing.com
 c.bing.net
@@ -282,6 +283,7 @@ docs.com
 docs.microsoft.com
 doom.com
 dot.net
+dotnetcli.trafficmanager.net
 download.microsoft.com
 download.visualstudio.microsoft.com
 download.windowsupdate.com
@@ -869,6 +871,7 @@ storeedge.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
 streaming.mediaservices.windows.net
 successwithteams.com
+sundry-star-net-geo.trafficmanager.net
 surface.com
 surface.download.prss.microsoft.com
 surface.downloads.prss.microsoft.com

@@ -48,13 +48,13 @@ Use a `-combined-v4.txt` list when the tunnel has no IPv6 route.
 
 <!-- BEGIN GENERATED CATALOG -->
 
-Last successful update: `2026-11-15T11:11:36+00:00`. The table contains all 67 published files.
+Last successful update: `2026-11-16T11:41:31+00:00`. The table contains all 67 published files.
 
 | Provider / service | Subscription URL | Domains | IPv4 CIDRs | IPv6 CIDRs |
 | --- | --- | ---: | ---: | ---: |
 | amazon / all | [amazon-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/amazon/amazon-all-domains.txt) | 249 | 0 | 0 |
 | anthropic / all | [anthropic-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/anthropic/anthropic-all-domains.txt) | 21 | 0 | 0 |
-| apple / all | [apple-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/apple/apple-all-domains.txt) | 1797 | 0 | 0 |
+| apple / all | [apple-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/apple/apple-all-domains.txt) | 1801 | 0 | 0 |
 | cloudflare / all | [cloudflare-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/cloudflare/cloudflare-all-domains.txt) | 76 | 0 | 0 |
 | google / ads | [google-ads-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-ads-domains.txt) | 7 | 0 | 0 |
 | google / all | [google-all-combined-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-combined-v4.txt) | 1136 | 297 | 0 |
@@ -84,10 +84,10 @@ Last successful update: `2026-11-15T11:11:36+00:00`. The table contains all 67 p
 | meta / all | [meta-all-ips-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/meta/meta-all-ips-v4.txt) | 0 | 80 | 0 |
 | meta / all | [meta-all-ips-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/meta/meta-all-ips-v6.txt) | 0 | 0 | 42 |
 | meta / all | [meta-all-ips.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/meta/meta-all-ips.txt) | 0 | 80 | 42 |
-| microsoft / all | [microsoft-all-combined-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-combined-v4.txt) | 996 | 31 | 0 |
-| microsoft / all | [microsoft-all-combined-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-combined-v6.txt) | 996 | 0 | 51 |
-| microsoft / all | [microsoft-all-combined.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-combined.txt) | 996 | 31 | 51 |
-| microsoft / all | [microsoft-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-domains.txt) | 996 | 0 | 0 |
+| microsoft / all | [microsoft-all-combined-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-combined-v4.txt) | 999 | 31 | 0 |
+| microsoft / all | [microsoft-all-combined-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-combined-v6.txt) | 999 | 0 | 51 |
+| microsoft / all | [microsoft-all-combined.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-combined.txt) | 999 | 31 | 51 |
+| microsoft / all | [microsoft-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-domains.txt) | 999 | 0 | 0 |
 | microsoft / all | [microsoft-all-ips-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-ips-v4.txt) | 0 | 31 | 0 |
 | microsoft / all | [microsoft-all-ips-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-ips-v6.txt) | 0 | 0 | 51 |
 | microsoft / all | [microsoft-all-ips.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/microsoft/microsoft-all-ips.txt) | 0 | 31 | 51 |
@@ -98,11 +98,11 @@ Last successful update: `2026-11-15T11:11:36+00:00`. The table contains all 67 p
 | netflix / all | [netflix-all-ips-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/netflix/netflix-all-ips-v4.txt) | 0 | 36 | 0 |
 | netflix / all | [netflix-all-ips-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/netflix/netflix-all-ips-v6.txt) | 0 | 0 | 86 |
 | netflix / all | [netflix-all-ips.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/netflix/netflix-all-ips.txt) | 0 | 36 | 86 |
-| openai / all | [openai-all-combined-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/openai/openai-all-combined-v4.txt) | 65 | 538 | 0 |
-| openai / all | [openai-all-combined.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/openai/openai-all-combined.txt) | 65 | 538 | 0 |
+| openai / all | [openai-all-combined-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/openai/openai-all-combined-v4.txt) | 65 | 409 | 0 |
+| openai / all | [openai-all-combined.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/openai/openai-all-combined.txt) | 65 | 409 | 0 |
 | openai / all | [openai-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/openai/openai-all-domains.txt) | 65 | 0 | 0 |
-| openai / all | [openai-all-ips-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/openai/openai-all-ips-v4.txt) | 0 | 538 | 0 |
-| openai / all | [openai-all-ips.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/openai/openai-all-ips.txt) | 0 | 538 | 0 |
+| openai / all | [openai-all-ips-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/openai/openai-all-ips-v4.txt) | 0 | 409 | 0 |
+| openai / all | [openai-all-ips.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/openai/openai-all-ips.txt) | 0 | 409 | 0 |
 | spotify / all | [spotify-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/spotify/spotify-all-domains.txt) | 26 | 0 | 0 |
 | telegram / all | [telegram-all-combined-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/telegram/telegram-all-combined-v4.txt) | 24 | 7 | 0 |
 | telegram / all | [telegram-all-combined-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/telegram/telegram-all-combined-v6.txt) | 24 | 0 | 4 |
