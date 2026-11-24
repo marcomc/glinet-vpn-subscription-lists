@@ -48,7 +48,7 @@ Use a `-combined-v4.txt` list when the tunnel has no IPv6 route.
 
 <!-- BEGIN GENERATED CATALOG -->
 
-Last successful update: `2026-11-23T13:10:15+00:00`. The table contains all 67 published files.
+Last successful update: `2026-11-24T13:56:18+00:00`. The table contains all 67 published files.
 
 | Provider / service | Subscription URL | Domains | IPv4 CIDRs | IPv6 CIDRs |
 | --- | --- | ---: | ---: | ---: |
@@ -57,10 +57,10 @@ Last successful update: `2026-11-23T13:10:15+00:00`. The table contains all 67 p
 | apple / all | [apple-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/apple/apple-all-domains.txt) | 1801 | 0 | 0 |
 | cloudflare / all | [cloudflare-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/cloudflare/cloudflare-all-domains.txt) | 76 | 0 | 0 |
 | google / ads | [google-ads-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-ads-domains.txt) | 7 | 0 | 0 |
-| google / all | [google-all-combined-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-combined-v4.txt) | 1136 | 297 | 0 |
-| google / all | [google-all-combined-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-combined-v6.txt) | 1136 | 0 | 98 |
-| google / all | [google-all-combined.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-combined.txt) | 1136 | 297 | 98 |
-| google / all | [google-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-domains.txt) | 1136 | 0 | 0 |
+| google / all | [google-all-combined-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-combined-v4.txt) | 1137 | 297 | 0 |
+| google / all | [google-all-combined-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-combined-v6.txt) | 1137 | 0 | 98 |
+| google / all | [google-all-combined.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-combined.txt) | 1137 | 297 | 98 |
+| google / all | [google-all-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-domains.txt) | 1137 | 0 | 0 |
 | google / all | [google-all-ips-v4.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-ips-v4.txt) | 0 | 297 | 0 |
 | google / all | [google-all-ips-v6.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-ips-v6.txt) | 0 | 0 | 98 |
 | google / all | [google-all-ips.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-all-ips.txt) | 0 | 297 | 98 |
@@ -69,7 +69,7 @@ Last successful update: `2026-11-23T13:10:15+00:00`. The table contains all 67 p
 | google / core | [google-core-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-core-domains.txt) | 2 | 0 | 0 |
 | google / docs | [google-docs-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-docs-domains.txt) | 3 | 0 | 0 |
 | google / drive | [google-drive-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-drive-domains.txt) | 5 | 0 | 0 |
-| google / gemini | [google-gemini-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-gemini-domains.txt) | 49 | 0 | 0 |
+| google / gemini | [google-gemini-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-gemini-domains.txt) | 50 | 0 | 0 |
 | google / gmail | [google-gmail-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-gmail-domains.txt) | 3 | 0 | 0 |
 | google / maps | [google-maps-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-maps-domains.txt) | 2 | 0 | 0 |
 | google / meet | [google-meet-domains.txt](https://raw.githubusercontent.com/marcomc/glinet-vpn-subscription-lists/main/output/google/google-meet-domains.txt) | 2 | 0 | 0 |
