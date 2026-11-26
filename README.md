@@ -48,7 +48,7 @@ Use a `-combined-v4.txt` list when the tunnel has no IPv6 route.
 
 <!-- BEGIN GENERATED CATALOG -->
 
-Last successful update: `2026-11-25T13:10:26+00:00`. The table contains all 67 published files.
+Last successful update: `2026-11-26T12:50:30+00:00`. The table contains all 67 published files.
 
 | Provider / service | Subscription URL | Domains | IPv4 CIDRs | IPv6 CIDRs |
 | --- | --- | ---: | ---: | ---: |
