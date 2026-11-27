@@ -41,6 +41,7 @@ asp.net
 aspnetcdn.com
 assets-yammer.com
 atom.io
+aurora-customization-usw2.lithium.com
 auth.gfx.ms
 auth.microsoft.com
 autologon.microsoftazuread-sso.com
